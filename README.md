@@ -1,4 +1,4 @@
-# Hi, I'm Cassandra Su 👋
+# Cassandra Su
 
 **Aspiring Data Scientist, building toward Lead Data Scientist.**
 
