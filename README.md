@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Cassandra Su, building toward Lead Data Scientist" width="100%">
+  <img src="banner-light.svg" alt="Cassandra Su, building toward Lead Data Scientist" width="100%">
 </p>
 
 **Aspiring Data Scientist, building toward Lead Data Scientist.** I connect machine learning with AI strategy and organizational leadership, so that data turns into decisions.
