@@ -42,8 +42,11 @@ A small suite of personal apps that support my study routine and daily systems.
 |---|---|
 | [StudyO](https://github.com/cassieorcasey/StudyO) | Study sessions, breaks, topic goals, weekly streak |
 | [budget-saver](https://github.com/cassieorcasey/budget-saver) | Envelope-style budgeting in my own Google Sheets, synced across iPhone and Windows |
-| [wishmap](https://github.com/cassieorcasey/wishmap) | Interactive shopping wishlist map with links, prices, and item connections |
 | [calorie](https://github.com/cassieorcasey/calorie) | Daily nutrition and calorie tracker |
+| [wishmap](https://github.com/cassieorcasey/wishmap) | Interactive shopping wishlist map with links, prices, and item connections |
+| [synthesis](https://github.com/cassieorcasey/synthesis) | Mind map that organizes my learning materials in one place |
+| [waypoint](https://github.com/cassieorcasey/waypoint) | My Lead Data Science roadmap as a step-by-step mind map |
+| [terrain](https://github.com/cassieorcasey/terrain) | Mind map of my AI tool stack, grouped by how I use each tool |
 
 ## Stack
 
