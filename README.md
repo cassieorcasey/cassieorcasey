@@ -12,10 +12,11 @@
 
 | Repo | Why |
 |---|---|
-| [My-Learn-Python-Fundamentals](https://github.com/cassieorcasey/My-Learn-Python-Fundamentals) | My Python foundation: syntax, data structures, OOP |
 | [practice-math](https://github.com/cassieorcasey/practice-math) | Step-by-step math tutor skill (EN + ID), a prompt-design project |
-| [StudyO](https://github.com/cassieorcasey/StudyO) | How I track and measure my own learning |
-| [budget-saver](https://github.com/cassieorcasey/budget-saver) | Envelope budgeting synced to my own Google Sheets |
+| [linear-algebra-from-scratch](https://github.com/cassieorcasey/linear-algebra-from-scratch) | Core linear algebra built from scratch, the math behind machine learning |
+| [synthesis](https://github.com/cassieorcasey/synthesis) | A mind map that organizes all my learning materials in one place |
+| [localkey](https://github.com/cassieorcasey/localkey) | Password generator built in Python to apply what I learn |
+| [kalkulator-alokasi-portofolio](https://github.com/cassieorcasey/kalkulator-alokasi-portofolio) | Portfolio allocation calculator for planning how to split investments |
 
 ## Career path
 
