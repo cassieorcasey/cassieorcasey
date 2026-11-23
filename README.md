@@ -14,7 +14,7 @@
 |---|---|
 | [practice-math](https://github.com/cassieorcasey/practice-math) | Step-by-step math tutor skill (EN + ID), a prompt-design project |
 | [linear-algebra-from-scratch](https://github.com/cassieorcasey/linear-algebra-from-scratch) | Core linear algebra built from scratch, the math behind machine learning |
-| [synthesis](https://github.com/cassieorcasey/synthesis) | A mind map that organizes all my learning materials in one place |
+| [Synthesis](https://github.com/cassieorcasey/synthesis) | A mind map that organizes all my learning materials in one place |
 | [localkey](https://github.com/cassieorcasey/localkey) | Password generator built in Python to apply what I learn |
 | [kalkulator-alokasi-portofolio](https://github.com/cassieorcasey/kalkulator-alokasi-portofolio) | Portfolio allocation calculator for planning how to split investments |
 
@@ -41,12 +41,12 @@ A small suite of personal apps that support my study routine and daily systems.
 | App | What it does |
 |---|---|
 | [StudyO](https://github.com/cassieorcasey/StudyO) | Study sessions, breaks, topic goals, weekly streak |
-| [finite](https://github.com/cassieorcasey/finite) | Envelope-style budgeting in my own Google Sheets, synced across iPhone and Windows |
-| [stasis](https://github.com/cassieorcasey/stasis) | Daily nutrition and calorie tracker |
-| [wishmap](https://github.com/cassieorcasey/wishmap) | Interactive shopping wishlist map with links, prices, and item connections |
-| [synthesis](https://github.com/cassieorcasey/synthesis) | Mind map that organizes my learning materials in one place |
-| [waypoint](https://github.com/cassieorcasey/waypoint) | My Lead Data Science roadmap as a step-by-step mind map |
-| [terrain](https://github.com/cassieorcasey/terrain) | Mind map of my AI tool stack, grouped by how I use each tool |
+| [Finite](https://github.com/cassieorcasey/budget-saver) | Envelope-style budgeting in my own Google Sheets, synced across iPhone and Windows |
+| [Stasis](https://github.com/cassieorcasey/calorie) | Daily nutrition and calorie tracker |
+| [Wishmap](https://github.com/cassieorcasey/wishmap) | Shopping wishlist board with categories, links, prices, and item connections |
+| [Synthesis](https://github.com/cassieorcasey/synthesis) | Mind map that organizes my learning materials in one place |
+| [Conway](https://github.com/cassieorcasey/waypoint) | My Lead Data Science roadmap as a step-by-step mind map |
+| [Terrain](https://github.com/cassieorcasey/terrain) | Mind map of my AI tool stack, grouped by how I use each tool |
 
 ## Stack
 
