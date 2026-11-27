@@ -6,7 +6,7 @@ Aspiring Data Scientist, building toward Lead Data Scientist. I learn by buildin
 
 - **Now:** Python, SQL, discrete math, algebra
 - **Next:** Statistics, data analysis, machine learning
-- **Later:** AI strategy, project scoping, mentoring
+- **Later:** AI strategy, Lead DS, mentoring
 
 ## Learning projects
 
