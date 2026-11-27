@@ -22,7 +22,6 @@ Personal apps for my study and daily routine.
 
 - [Lemma](https://github.com/cassieorcasey/StudyO): notebook for what I understood after studying, with an optional timer
 - [Subset](https://github.com/cassieorcasey/budget-saver): envelope budgeting on my own Google Sheets
-- [Stasis](https://github.com/cassieorcasey/calorie): daily nutrition and calorie tracker
 - [Wishy](https://github.com/cassieorcasey/wishmap): shopping wishlist board
 - [Synthesis](https://github.com/cassieorcasey/synthesis): mind map of my learning materials
 - [Conway](https://github.com/cassieorcasey/conway): Lead Data Science roadmap
