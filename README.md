@@ -13,8 +13,6 @@ Aspiring Data Scientist, building toward Lead Data Scientist. I learn by buildin
 - [practice-math](https://github.com/cassieorcasey/practice-math): step-by-step math tutor skill (EN + ID)
 - [linear-algebra-from-scratch](https://github.com/cassieorcasey/linear-algebra-from-scratch): linear algebra built from scratch in Python
 - [localkey](https://github.com/cassieorcasey/localkey): password generator in Python
-- [kalkulator-alokasi-portofolio](https://github.com/cassieorcasey/kalkulator-alokasi-portofolio): portfolio allocation calculator
-- [My-Learn-Python-Fundamentals](https://github.com/cassieorcasey/My-Learn-Python-Fundamentals): Python syntax, data structures, OOP
 
 ## Cassandra Suite
 
